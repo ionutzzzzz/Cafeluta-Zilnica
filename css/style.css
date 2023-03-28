@@ -79,3 +79,14 @@ h2{
     font: 40px !important;
     font-weight: bold !important;
 }
+
+/* IMAGE ANIMATION */
+
+.image-class
+{
+    border-radius: 5px;
+}
+  
+.image-class:hover{
+    filter: brightness(80%);
+}
