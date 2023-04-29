@@ -191,3 +191,11 @@ h5 {
     font-size: 2.5rem;
     cursor: pointer;
   }
+
+/* YOUTUBE BUTTON */
+
+.meme {
+    margin: auto;
+    text-align: center !important;
+    width: 200px;
+}
