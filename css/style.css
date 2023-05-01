@@ -199,3 +199,10 @@ h5 {
     text-align: center !important;
     width: 200px;
 }
+
+/* Image Dimensions */
+
+.image-dimensions {
+    width: 100% !important;
+    height: 350px !important;
+}
