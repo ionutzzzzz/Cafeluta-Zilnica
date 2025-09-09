@@ -82,8 +82,8 @@ h2 {
 }
 
 .text-descriere {
-  margin-top: 8px;
-  font: 40px !important;
+  margin-top: 1.2rem;
+  font-size: 20px !important;
   font-weight: bold !important;
 }
 
